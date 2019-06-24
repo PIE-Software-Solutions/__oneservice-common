@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: oneservice-common
+Implementation-Version: 0.0.1
+Built-By: Kiran.Barnana
+Implementation-Vendor-Id: com.kj.oneservice.common
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/oneservice-common
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: 
+
